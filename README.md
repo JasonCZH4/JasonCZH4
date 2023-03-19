@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JasonCZH4
-- 👀 I’m interested in DL/CV/MultiModal/KD
+- 👀 I’m interested in DL/CV/MultiModal/Knowledge Distillation
 - 🌱 I’m currently learning KD
 
 
