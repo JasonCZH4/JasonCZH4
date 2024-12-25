@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JasonCZH4
-- 👀 I’m interested in DL/CV/MultiModal/Knowledge Distillation
-- 🌱 I’m currently learning KD
+- 👋 Hi, I’m @JasonCZH4.
+- 👀 I’m interested in ~~DL/CV/MultiModal/Knowledge Distillation~~ NLP/Large Language Model/Data Mining.
+- 🌱 I’m currently learning ~~KD~~NLP.
 
 
 <!---
